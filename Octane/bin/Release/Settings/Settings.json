@@ -30,6 +30,16 @@
         "Blender|https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.92/blender-2.92.0-windows64.msi",
         "µTorrent|https://download-hr.utorrent.com/track/stable/endpoint/utorrent/os/windows/uTorrent.exe",
         "Rainmeter|https://builds.rainmeter.net/Rainmeter-4.3.1.exe",
-        "Genshin Impact|https://genshinimpact.mihoyo.com/client_app/launcher/20210325_89836f6a48646ed4/GenshinImpact_install_20210323145008.exe"
+        "Genshin Impact|https://genshinimpact.mihoyo.com/client_app/launcher/20210325_89836f6a48646ed4/GenshinImpact_install_20210323145008.exe",
+        "G Hub|https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe",
+        "UbisoftConnect|https://ubistatic3-a.akamaihd.net/orbit/launcher_installer/UbisoftConnectInstaller.exe",
+        "AMD Ryzen|https://download.amd.com/Desktop/AMD-Ryzen-Master.exe",
+        "Battle.net|https://eu.battle.net/download/getInstaller?os=win&installer=Battle.net-Setup.exe",
+        "Epic|https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Win32/EpicInstaller-12.1.1.msi?launcherfilename=EpicInstaller-12.1.1.msi",
+        "GeForce|http://fr.download.nvidia.com/GFE/GFEClient/3.21.0.36/GeForce_Experience_v3.21.0.36.exe",
+        "GOG|https://webinstallers.gog-statics.com/download/GOG_Galaxy_2.0.exe",
+        "Minecraft|https://launcher.mojang.com/download/MinecraftInstaller.msi",
+        "OSU|https://m1.ppy.sh/r/osu!install.exe",
+        "Bluestack|https://cdn3.bluestacks.com/downloads/windows/bgp/4.280.0.1022/216ab19f86264ff3d198094f2990863e/BlueStacksMicroInstaller_4.280.0.1022_native.exe?filename=BlueStacksInstaller_4.280.0.1022_native_b0aac984f929292cdf1623fba3108698.exe"
     ]
 }
